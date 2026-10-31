@@ -1,0 +1,41 @@
+body{
+  
+    
+}
+ .Question-1 h1{
+    color: rgb(173, 158, 138);
+}
+.Question-1 {
+    background-color: bisque;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.Question-2 h1{
+    color: rgb(171, 86, 46);
+    font-size:xx-large;
+}
+.Question-2 h2{
+    color:chocolate;
+}
+.Question-2 p{color: rgb(195, 136, 93);
+    
+}
+.Question-2{
+    background-color: rgb(87, 31, 31);
+}
+.Question-3{
+    background-color: bisque;
+}
+.Question-3 h1{
+    color: rgb(10, 85, 10);
+}
+.Question-3 a{
+    color: rgb(41, 67, 12);
+}
+.Question-4 th{
+    background-color: bisque;
+}
+.Question-4 table,th,td,tr{
+border: 1px solid black;
+border-collapse:collapse;
+}
